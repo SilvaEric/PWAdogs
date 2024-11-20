@@ -19,6 +19,9 @@ jobs:
         with:
           submodules: true
           lfs: false
+          
+      - name: Instalar jq
+        run: sudo apt-get install jq
 
       - name: Update appsettings.json with ClientId
         run: |
@@ -28,6 +31,11 @@ jobs:
         env:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           
+      - name: Verificar appsettings.json atualizado
+        run: |
+          echo "Conteúdo do appsettings.json:"
+          cat wwwroot/appsettings.json
+      
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
