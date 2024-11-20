@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\BlazorOauth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|c:\\dev\\blazoroauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|c:\\dev\\blazoroauth\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|solutionrelative:wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|c:\\dev\\blazoroauth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|c:\\dev\\blazoroauth\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|solutionrelative:wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|c:\\dev\\blazoroauth\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55640295-1442-40B4-80DD-47316CE8B12C}|BlazorOauth.csproj|solutionrelative:shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\BlazorOauth\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Dev\\BlazorOauth\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:21:49.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\BlazorOauth\\wwwroot\\appsettings.json",
+              "RelativeDocumentMoniker": "wwwroot\\appsettings.json",
+              "ToolTip": "C:\\Dev\\BlazorOauth\\wwwroot\\appsettings.json",
+              "RelativeToolTip": "wwwroot\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T02:37:40.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "weather.json",
+              "DocumentMoniker": "C:\\Dev\\BlazorOauth\\wwwroot\\sample-data\\weather.json",
+              "RelativeDocumentMoniker": "wwwroot\\sample-data\\weather.json",
+              "ToolTip": "C:\\Dev\\BlazorOauth\\wwwroot\\sample-data\\weather.json",
+              "RelativeToolTip": "wwwroot\\sample-data\\weather.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T02:32:10.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Dev\\BlazorOauth\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Dev\\BlazorOauth\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T02:31:32.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDisplay.razor",
+              "DocumentMoniker": "C:\\Dev\\BlazorOauth\\Shared\\LoginDisplay.razor",
+              "RelativeDocumentMoniker": "Shared\\LoginDisplay.razor",
+              "ToolTip": "C:\\Dev\\BlazorOauth\\Shared\\LoginDisplay.razor",
+              "RelativeToolTip": "Shared\\LoginDisplay.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T20:02:22.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

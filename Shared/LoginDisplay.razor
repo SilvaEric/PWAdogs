@@ -1,0 +1,27 @@
+﻿@inject NavigationManager Navigation
+
+<AuthorizeView>
+    <Authorized>
+        @{
+            var user = context.User.Identity.Name;
+        }
+
+        <p> BEM VINDO AO APP @user</p>
+        <button @onclick="BeginSignOut">Log out</button>
+    </Authorized>
+
+    <NotAuthorized>
+        <button @onclick="StartLogin">Log in</button>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code{
+    private void BeginSignOut()
+    {
+        Navigation.NavigateToLogout("authentication/logout");
+    }
+    private void StartLogin()
+    {
+        Navigation.NavigateTo("authentication/login");
+    }
+}
